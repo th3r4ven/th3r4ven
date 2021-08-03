@@ -21,28 +21,28 @@ Hi, My name is Matheus, I'm a **Software Engineer** on <a href="https://github.c
 
 ### Tecnologies
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="" height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png">
-  <img align="center" alt="flask" height="40" src="https://github.com/devicons/devicon/raw/master/icons/flask/flask-original.svg">
+  <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="" height="30" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png">
+  <img align="center" alt="flask" height="30" src="https://github.com/devicons/devicon/raw/master/icons/flask/flask-original.svg">
   <img align="center" alt="SQLAlchemy" height="30" src="https://github.com/devicons/devicon/raw/master/icons/sqlalchemy/sqlalchemy-original.svg">
-  <img align="center" alt="Docker" height="40" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg">
-  <img align="center" alt="MySql" height="40" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Linux" height="40" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Git" height="40" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg">
-  <img align="center" alt="Github" height="40" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg">
-  <img align="center" alt="Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="40" src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="apache" height="40" src="https://github.com/devicons/devicon/raw/master/icons/apache/apache-original.svg">
-  <img align="center" alt="Jquery" height="40" src="https://github.com/devicons/devicon/raw/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="java" height="40" src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg">
-  <img align="center" alt="Intellij" height="40" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png">
-  <img align="center" alt="PHP" height="40" src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg">
-  <img align="center" alt="PHPStorm" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png">
-  <img align="center" alt="Lua" height="40" src="https://github.com/devicons/devicon/raw/master/icons/lua/lua-original.svg">
-  <img align="center" alt="Ubuntu" height="40" src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="center" alt="Wordpress" height="40" src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="Docker" height="30" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg">
+  <img align="center" alt="MySql" height="30" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Linux" height="30" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Git" height="30" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg">
+  <img align="center" alt="Github" height="30" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg">
+  <img align="center" alt="Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bootstrap" height="30" src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="apache" height="30" src="https://github.com/devicons/devicon/raw/master/icons/apache/apache-original.svg">
+  <img align="center" alt="Jquery" height="30" src="https://github.com/devicons/devicon/raw/master/icons/jquery/jquery-original.svg">
+  <img align="center" alt="java" height="30" src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg">
+  <img align="center" alt="Intellij" height="30" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png">
+  <img align="center" alt="PHP" height="30" src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg">
+  <img align="center" alt="PHPStorm" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png">
+  <img align="center" alt="Lua" height="30" src="https://github.com/devicons/devicon/raw/master/icons/lua/lua-original.svg">
+  <img align="center" alt="Ubuntu" height="30" src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
+  <img align="center" alt="Wordpress" height="30" src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-original.svg">
 </div>
 </div>
 <br>
