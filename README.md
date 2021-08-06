@@ -54,8 +54,8 @@ Hi, My name is Matheus, I'm a **Software Engineer Intern** on <a href="https://g
 <div><br>
 <div align="center">
   <a href="https://github.com/th3r4ven">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=th3r4ven&count_private=true&theme=midnight-purple&show_icons=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3r4ven&langs_count=7&layout=compact&theme=midnight-purple&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=th3r4ven&count_private=true&theme=midnight-purple&show_icons=true&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3r4ven&langs_count=7&layout=compact&theme=midnight-purple&count_private=true"/>
 </div>
 
 
