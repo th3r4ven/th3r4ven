@@ -15,7 +15,7 @@ Hi, My name is Matheus, I'm a **Software Engineer Intern** on <a href="https://g
  <img src="https://discord-md-badge.vercel.app/api/shield/402249988815716352" target="_blank">&nbsp;
   <a href = "mailto:matheus.chiarato@outlook.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
   <a href="https://www.linkedin.com/in/matheus-chiarato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
-  <a href="https://steamcommunity.com/id/th3r4ven/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
+  <!-- <a href="https://steamcommunity.com/id/th3r4ven/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" --></a> 
 </div>
 <br>
 
