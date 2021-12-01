@@ -42,7 +42,6 @@ Hi, My name is Matheus, I'm a **Software Engineer** on <a href="https://github.c
   <img align="center" alt="PHPStorm" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png">
   <img align="center" alt="Lua" height="30" src="https://github.com/devicons/devicon/raw/master/icons/lua/lua-original.svg">
   <img align="center" alt="Ubuntu" height="40" src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="center" alt="Wordpress" height="30" src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-original.svg">
 </div>
 </div>
 <br>
