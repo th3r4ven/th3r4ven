@@ -1,5 +1,5 @@
 <h1 align="center"> What's up?!. I'm TH3R4VEN :eagle: </h1>
-<h3 align="center"><b>Software Engineer and CyberSecurity Student</b></h3>
+<h3 align="center"><b>Software Engineer and CyberSecurity Professional</b></h3>
 
 <br>
 
