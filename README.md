@@ -3,9 +3,9 @@
 
 <br>
 
-Hi, My name is Matheus, I'm a **Software Engineer** on <a href="https://github.com/sec4you" target="_blank">SEC4YOU</a> with focus on **backend** development and **cybersecurity professional**, trying to mix best of 2 worlds to provide and create malicious and secure softwares.
+Hi, My name is Matheus, I'm a **Software Engineer** on <a href="https://github.com/authcube" target="_blank">Authcube</a> with focus on **backend** development and **cybersecurity professional**, trying to mix best of 2 worlds to provide and create malicious and secure softwares.
 
-- 🔭 I’m currently working on a private project for [DezOrganizada Furiosa](https://github.com/DezOrganizada).
+- 🔭 I’m currently working on a private project.
 - 🌱 I’m currently learning **Go** and **Python** as always and trying to decide witch **front-end framework** to study!
 - ⚡ Fun fact **I'm a Drummer!! :drum:**
 
